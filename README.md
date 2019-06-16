@@ -67,7 +67,7 @@ All fully responsive. All compatible with different browsers.
 - Clone following repo:
 
 ```bash
-git clone https://github.com/mdbootstrap/react-bootstrap-with-material-design .
+git clone https://github.com/anuar101/react-materialize .
 ```
 
 note "." at the end. It will clone files directly into current folder.
